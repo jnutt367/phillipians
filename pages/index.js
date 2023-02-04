@@ -13,14 +13,16 @@ export default function Home() {
 
       <main className={styles.main}>
     
-
-        <h1 className={styles.title}>
-       PHILIPPIANS
-         
-         
-       
-        </h1>
        <div className={styles.hero}>
+                  <h2 className={styles.holy}>THE HOLY</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-holy-bible.vercel.app/" target="_blank">BIBLE</a>
+                </h1>
+        
+        <h1 className={styles.title}>
+        PHILIPPIANS
+        </h1>
+       <div  className={styles.image}>
        <Image 
                                 src="/illustration-jesus-christ-walking-water-biblical-series_29028-550.webp"
                                 alt="Jesus teaching"
@@ -28,21 +30,40 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
-                    <div className={styles.nav}> 
-       <a href="https://the-holy-bible.vercel.app/">
-            <button className={styles.button}> HOME </button>
+        </div>                          
+                   <div className={styles.nav}>           
+      <a href="https://ephesians.vercel.app/">
+             <Image 
+                                src="/702-7024826_computer-back-icon-left-right-arrow-cartoon-arrow.png"
+                                alt="Jesus"
+                                 height={100}
+                                width={100}
+                                priority
+                              />
        </a>
 
          <a href="#PayPalButton">
-            <button className={styles.button}>CONTRIBUTE </button>
+            <Image 
+                                src="/SCROLL-DOWN-button-kopie1.gif"
+                                alt="Jesus"
+                                 height={100}
+                                width={100}
+                                priority
+                              />
+           
         </a> 
-         <a href="https://ephesians.vercel.app/">
-            <button className={styles.button}>PREV </button>
-       </a>           
-        <a href="https://colossians.vercel.app/">
-            <button className={styles.button}>NEXT > </button>
-       </a>          
-              </div>
+         <a href="https://colossians.vercel.app/">
+           <Image 
+                                src="/jean_victor_balin_arrow_orange_right.png"
+                                alt="Jesus"
+                                 height={100}
+                                width={100}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Chapter 1 &darr;</h2>
