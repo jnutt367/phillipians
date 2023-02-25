@@ -34,30 +34,30 @@ export default function Home() {
                    <div className={styles.nav}>           
       <a href="https://ephesians.vercel.app/">
              <Image 
-                                src="/702-7024826_computer-back-icon-left-right-arrow-cartoon-arrow.png"
-                                alt="Jesus"
-                                 height={100}
-                                width={100}
+                                src="/chevron-left.svg"
+                                alt="left"
+                                 height={75}
+                                width={75}
                                 priority
                               />
        </a>
 
          <a href="#PayPalButton">
             <Image 
-                                src="/SCROLL-DOWN-button-kopie1.gif"
-                                alt="Jesus"
-                                 height={100}
-                                width={100}
+                                src="/chevron-down.svg"
+                                alt="down"
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
         </a> 
          <a href="https://colossians.vercel.app/">
            <Image 
-                                src="/jean_victor_balin_arrow_orange_right.png"
+                                src="/chevron-right.svg"
                                 alt="Jesus"
-                                 height={100}
-                                width={100}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
@@ -66,7 +66,7 @@ export default function Home() {
                </div>
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Chapter 1 &darr;</h2>
+            <h2 className={styles.chapter}>Philippians Chapter I</h2>
             <p>1 Paul and Timothy, servants of Christ Jesus,
 
 To all God’s holy people in Christ Jesus at Philippi, together with the overseers and deacons[a]:
@@ -94,7 +94,7 @@ Life Worthy of the Gospel
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Chapter 2 &darr;</h2>
+             <h2 className={styles.chapter}>Philippians Chapter II</h2>
             <p>Imitating Christ’s Humility
 2 Therefore if you have any encouragement from being united with Christ, if any comfort from his love, if any common sharing in the Spirit, if any tenderness and compassion, 2 then make my joy complete by being like-minded, having the same love, being one in spirit and of one mind. 3 Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves, 4 not looking to your own interests but each of you to the interests of the others.
 
@@ -131,7 +131,7 @@ Timothy and Epaphroditus
           <div
             className={styles.card}
           >
-            <h2>Chapter 3 &darr;</h2>
+  <h2 className={styles.chapter}>Philippians Chapter III</h2>
             <p>No Confidence in the Flesh
 3 Further, my brothers and sisters, rejoice in the Lord! It is no trouble for me to write the same things to you again, and it is a safeguard for you. 2 Watch out for those dogs, those evildoers, those mutilators of the flesh. 3 For it is we who are the circumcision, we who serve God by his Spirit, who boast in Christ Jesus, and who put no confidence in the flesh— 4 though I myself have reasons for such confidence.
 
@@ -150,7 +150,7 @@ Following Paul’s Example
           <div
             className={styles.card}
           >
-            <h2>Chapter 4 &darr;</h2>
+             <h2 className={styles.chapter}>Philippians Chapter IV</h2>
             <p>
             Closing Appeal for Steadfastness and Unity
 4 Therefore, my brothers and sisters, you whom I love and long for, my joy and crown, stand firm in the Lord in this way, dear friends!
