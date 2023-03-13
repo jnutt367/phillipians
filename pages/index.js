@@ -64,6 +64,9 @@ export default function Home() {
         </a> 
          
                </div>
+    <p className={styles.fund}>"then make my joy complete by being like-minded, having the same love, being one in spirit and of one mind.
+ Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves,
+ not looking to your own interests but each of you to the interests of the others."</p>
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2 className={styles.chapter}>Philippians Chapter I</h2>
