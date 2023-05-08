@@ -44,7 +44,7 @@ export default function Home() {
 
          <a href="#PayPalButton">
             <Image 
-                                src="/chevron-down.svg"
+                                src="/home-button-icon-home-button-png.png"
                                 alt="down"
                                  height={25}
                                 width={25}
