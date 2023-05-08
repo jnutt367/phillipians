@@ -36,18 +36,18 @@ export default function Home() {
              <Image 
                                 src="/chevron-left.svg"
                                 alt="left"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
        </a>
 
-         <a href="#PayPalButton">
+         <a href="https://the-word-of-god.vercel.app/">
             <Image 
                                 src="/home-button-icon-home-button-png.png"
                                 alt="down"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
@@ -56,8 +56,8 @@ export default function Home() {
            <Image 
                                 src="/chevron-right.svg"
                                 alt="Jesus"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
