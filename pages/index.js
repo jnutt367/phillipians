@@ -32,7 +32,7 @@ export default function Home() {
                               />
         </div>    
 
- <p className={styles.parables}>"then make my joy complete by being like-minded, having the same love, being one in spirit and of one mind." (Philippians 2:2)</p>
+ <p className={styles.parables}>Even though He was writing from prison, Paul's letter contained the words "joy" or "rejoice" 14 times!</p>
                    <div className={styles.nav}>           
       <a href="https://ephesians.vercel.app/">
              <Image 
@@ -44,7 +44,7 @@ export default function Home() {
                               />
        </a>
 
-         <a href="https://the-word-of-god.vercel.app/">
+         <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
             <Image 
                                 src="/youtube-logo-png-hd-21.png"
                                 alt="down"
