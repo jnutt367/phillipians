@@ -32,7 +32,7 @@ export default function Home() {
                               />
         </div>    
 
- <p className={styles.parables}>Even though He was writing from prison, Paul's letter contained the words "joy" or "rejoice" 14 times!</p>
+ <p className={styles.parables}>Even though he was writing from prison, Paul's letter contained the words "joy" or "rejoice" 14 times!</p>
                    <div className={styles.nav}>           
       <a href="https://ephesians.vercel.app/">
              <Image 
