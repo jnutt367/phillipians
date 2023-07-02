@@ -16,7 +16,7 @@ export default function Home() {
        <div className={styles.hero}>
                   <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-holy-bible.vercel.app/" target="_blank">OF GOD</a>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         
         <h1 className={styles.title}>
@@ -24,13 +24,15 @@ export default function Home() {
         </h1>
        <div  className={styles.image}>
        <Image 
-                                src="/illustration-jesus-christ-walking-water-biblical-series_29028-550.webp"
+                                src="/risen_45"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
                                 priority
                               />
-        </div>                          
+        </div>    
+
+ <p className={styles.parables}>"then make my joy complete by being like-minded, having the same love, being one in spirit and of one mind." (Philippians 2:2)</p>
                    <div className={styles.nav}>           
       <a href="https://ephesians.vercel.app/">
              <Image 
@@ -44,7 +46,7 @@ export default function Home() {
 
          <a href="https://the-word-of-god.vercel.app/">
             <Image 
-                                src="/home-button-icon-home-button-png.png"
+                                src="/youtube-logo-png-hd-21.png"
                                 alt="down"
                                  height={75}
                                 width={75}
@@ -64,8 +66,10 @@ export default function Home() {
         </a> 
          
                </div>
-    <p className={styles.fund}>"then make my joy complete by being like-minded, having the same love, being one in spirit and of one mind." (Philippians 2:2)</p>
-        <div className={styles.grid}>
+               <div className={styles.iframe}>                   
+               <iframe width="100%" height="315" src="https://www.youtube.com/embed/oE9qqW1-BkU?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>                   
+                                  <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2 className={styles.chapter}>Philippians Chapter I</h2>
             <p>1 Paul and Timothy, servants of Christ Jesus,
