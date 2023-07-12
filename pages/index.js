@@ -36,30 +36,30 @@ export default function Home() {
                    <div className={styles.nav}>           
       <a href="https://ephesians.vercel.app/">
              <Image 
-                                src="/chevron-left.svg"
-                                alt="left"
+                                src="/previous.webp"
+                                alt="previous"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>
 
          <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
             <Image 
-                                src="/youtube-logo-png-hd-21.png"
-                                alt="down"
+                                src="/upward_pointing.webp"
+                                alt="home"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
            
         </a> 
          <a href="https://colossians.vercel.app/">
            <Image 
-                                src="/chevron-right.svg"
-                                alt="Jesus"
+                                src="/next.webp"
+                                alt="next"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
            
@@ -67,7 +67,7 @@ export default function Home() {
          
                </div>
                <div className={styles.iframe}>                   
-               <iframe width="100%" height="315" src="https://www.youtube.com/embed/oE9qqW1-BkU?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+               <iframe width="100%" height="315" src="https://www.youtube.com/embed/oE9qqW1-BkU?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>                   
                                   <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
