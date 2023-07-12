@@ -70,7 +70,7 @@ export default function Home() {
                <iframe width="100%" height="315" src="https://www.youtube.com/embed/oE9qqW1-BkU?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>                   
                                   <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+         <div className={styles.card}>
             <h2 className={styles.chapter}>Philippians Chapter I</h2>
             <p>1 Paul and Timothy, servants of Christ Jesus,
 
@@ -96,9 +96,9 @@ Life Worthy of the Gospel
 27 Whatever happens, conduct yourselves in a manner worthy of the gospel of Christ. Then, whether I come and see you or only hear about you in my absence, I will know that you stand firm in the one Spirit,[e] striving together as one for the faith of the gospel 28 without being frightened in any way by those who oppose you. This is a sign to them that they will be destroyed, but that you will be saved—and that by God. 29 For it has been granted to you on behalf of Christ not only to believe in him, but also to suffer for him, 30 since you are going through the same struggle you saw I had, and now hear that I still have.
 
 </p>
-          </a>
+          </div>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <div className={styles.card}>
              <h2 className={styles.chapter}>Philippians Chapter II</h2>
             <p>Imitating Christ’s Humility
 2 Therefore if you have any encouragement from being united with Christ, if any comfort from his love, if any common sharing in the Spirit, if any tenderness and compassion, 2 then make my joy complete by being like-minded, having the same love, being one in spirit and of one mind. 3 Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves, 4 not looking to your own interests but each of you to the interests of the others.
@@ -131,7 +131,7 @@ Timothy and Epaphroditus
 19 I hope in the Lord Jesus to send Timothy to you soon, that I also may be cheered when I receive news about you. 20 I have no one else like him, who will show genuine concern for your welfare. 21 For everyone looks out for their own interests, not those of Jesus Christ. 22 But you know that Timothy has proved himself, because as a son with his father he has served with me in the work of the gospel. 23 I hope, therefore, to send him as soon as I see how things go with me. 24 And I am confident in the Lord that I myself will come soon.
 
 25 But I think it is necessary to send back to you Epaphroditus, my brother, co-worker and fellow soldier, who is also your messenger, whom you sent to take care of my needs. 26 For he longs for all of you and is distressed because you heard he was ill. 27 Indeed he was ill, and almost died. But God had mercy on him, and not on him only but also on me, to spare me sorrow upon sorrow. 28 Therefore I am all the more eager to send him, so that when you see him again you may be glad and I may have less anxiety. 29 So then, welcome him in the Lord with great joy, and honor people like him, 30 because he almost died for the work of Christ. He risked his life to make up for the help you yourselves could not give me.</p>
-          </a>
+          </div>
 
           <div
             className={styles.card}
