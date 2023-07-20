@@ -44,10 +44,10 @@ export default function Home() {
                               />
        </a>
 
-         <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
+         <a href="https://cash.app/$JNutt367">
             <Image 
-                                src="/upward_pointing.webp"
-                                alt="home"
+                                src="/donations_please.webp"
+                                alt="contribute"
                                  height={75}
                                 width={90}
                                 priority
