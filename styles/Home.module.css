@@ -497,6 +497,22 @@
     font-weight: 900;
 }
 
+.card2:hover,
+.card2:focus,
+.card2:active {
+    display: inline;
+    color: black;
+    opacity: 0.9;
+    border: 6px solid black;
+    background-image: url(/paper.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: all-scroll;
+    overflow: scroll;
+    font-family: monospace;
+}
+
+
 .card2 h2 {
     margin: 0 0 1rem 0;
     font-size: 1.5rem;
