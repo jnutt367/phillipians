@@ -189,18 +189,141 @@ Final Greetings
 </div>
       </main>
 
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
-        </a>
-      </footer>
+<main id="jude" className={styles.main}>
+       
+        <div id="#" className={styles.hero}>
+                <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        <h1 className={styles.title}>
+       JUDE
+        </h1>
+          <div className={styles.image}>
+                           <Image 
+                                                    src="/jude.png"
+                                                    alt="john_hero.png"
+                                                    height={900}
+                                                    width={2000}
+                                                    priority
+                                                  />
+                          
+
+                        </div>
+    <p className={styles.parables}>
+
+         Jude will have description soon
+</p>                                                      
+                  <div className={styles.nav2}>           
+      <a href="https://romans-five.vercel.app/#james">
+             <Image 
+                                src="/previous.webp"
+                                alt="prev"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+        
+      <a href="https://cash.app/$JNutt367">
+              <Image className={styles.arrow}
+                                src="/donations_please.webp"
+                                alt="donations_please.webp"
+                                height={75}
+                                width={90}
+                                priority
+                              /> 
+       </a>
+         <a href="https://first-thessalonians.vercel.app/">
+           <Image 
+                                src="/next.webp"
+                                alt="next"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+                               <div className={styles.iframe}> 
+                                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/6UoCmakZmys?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                    
+                                  </div>
+                                  
+                              
+        <div className={styles.grid2}>
+          <div className={styles.card2}>
+           <h2  className={styles.chapter2}>Jude</h2>
+                                    <p> 
+                                                                                                                                                                                              1 Jude, a servant of Jesus Christ and a brother of James,
+                                                                              
+                                                                              To those who have been called, who are loved in God the Father and kept for[a] Jesus Christ:
+                                                                              
+                                                                              2 Mercy, peace and love be yours in abundance.
+                                                                              
+                                                                              The Sin and Doom of Ungodly People
+                                                                              3 Dear friends, although I was very eager to write to you about the salvation we share, I felt compelled to write and urge you to contend for the faith that was once for all entrusted to God’s holy people. 4 For certain individuals whose condemnation was written about[b] long ago have secretly slipped in among you. They are ungodly people, who pervert the grace of our God into a license for immorality and deny Jesus Christ our only Sovereign and Lord.
+                                                                              
+                                                                              5 Though you already know all this, I want to remind you that the Lord[c] at one time delivered his people out of Egypt, but later destroyed those who did not believe. 6 And the angels who did not keep their positions of authority but abandoned their proper dwelling—these he has kept in darkness, bound with everlasting chains for judgment on the great Day. 7 In a similar way, Sodom and Gomorrah and the surrounding towns gave themselves up to sexual immorality and perversion. They serve as an example of those who suffer the punishment of eternal fire.
+                                                                              
+                                                                              8 In the very same way, on the strength of their dreams these ungodly people pollute their own bodies, reject authority and heap abuse on celestial beings. 9 But even the archangel Michael, when he was disputing with the devil about the body of Moses, did not himself dare to condemn him for slander but said, “The Lord rebuke you!”[d] 10 Yet these people slander whatever they do not understand, and the very things they do understand by instinct—as irrational animals do—will destroy them.
+                                                                              
+                                                                              11 Woe to them! They have taken the way of Cain; they have rushed for profit into Balaam’s error; they have been destroyed in Korah’s rebellion.
+                                                                              
+                                                                              12 These people are blemishes at your love feasts, eating with you without the slightest qualm—shepherds who feed only themselves. They are clouds without rain, blown along by the wind; autumn trees, without fruit and uprooted—twice dead. 13 They are wild waves of the sea, foaming up their shame; wandering stars, for whom blackest darkness has been reserved forever.
+                                                                              
+                                                                              14 Enoch, the seventh from Adam, prophesied about them: “See, the Lord is coming with thousands upon thousands of his holy ones 15 to judge everyone, and to convict all of them of all the ungodly acts they have committed in their ungodliness, and of all the defiant words ungodly sinners have spoken against him.”[e] 16 These people are grumblers and faultfinders; they follow their own evil desires; they boast about themselves and flatter others for their own advantage.
+                                                                              
+                                                                              A Call to Persevere
+                                                                              17 But, dear friends, remember what the apostles of our Lord Jesus Christ foretold. 18 They said to you, “In the last times there will be scoffers who will follow their own ungodly desires.” 19 These are the people who divide you, who follow mere natural instincts and do not have the Spirit.
+                                                                              
+                                                                              20 But you, dear friends, by building yourselves up in your most holy faith and praying in the Holy Spirit, 21 keep yourselves in God’s love as you wait for the mercy of our Lord Jesus Christ to bring you to eternal life.
+                                                                              
+                                                                              22 Be merciful to those who doubt; 23 save others by snatching them from the fire; to others show mercy, mixed with fear—hating even the clothing stained by corrupted flesh.[f]
+                                                                              
+                                                                              Doxology
+                                                                              24 To him who is able to keep you from stumbling and to present you before his glorious presence without fault and with great joy— 25 to the only God our Savior be glory, majesty, power and authority, through Jesus Christ our Lord, before all ages, now and forevermore! Amen.
+                                    </p>
+          </div>
+
+         
+          <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>!Explaination of Layout!</h2>
+            <p>
+            I have appended 1 Thessalonians to the bottom of 1 corinthians...
+            I have appended 2 Thessalonians to the bottom of 2 corinthians...
+            I have appended 1 Timothy to the bottom of the gospel of Matthew...
+            I have appended 2 Timothy to the bottom of the gospel of Mark...
+            I have appended Titus to the bottom of the gospel of Luke...
+            I have appended Philemon to the bottom of the gospel of John...
+            I have appended Hebrews to the bottom of the book of Acts ...
+            I have appended James to the bottom of Romans ...
+            I have appended I Peter to the bottom of Galatians
+            I have appended II Peter to the bottom of I Peter ...
+            I have appended I John to the bottom of Ephesians ...  
+            I have appended II John to the bottom of I John ...
+            I have appended III John to the bottom of II John ...
+            I have appended Jude to the bottom of Philippians ...
+                        This has completed the New Testament portion of this Bible App...Praise God for the ability to code, publish & deploy this passion project!!
+     </p>
+          </div>
+
+
+     
+
+        </div>
+</div>
+        <p className={styles.description}> 
+        <code className={styles.publisher}>
+        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
+        </code>
+        </p>
+      </main>
+
+
+  
     </div>
   )
 }
