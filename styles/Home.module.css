@@ -307,6 +307,25 @@
     border-radius: 50%;
 }
 
+.nav3 {
+    background-color: #EC1613;
+    color: white;
+    opacity: 1;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: sticky;
+}
+.nav3 a:hover {
+    scale: 1.1;
+    background-color: black;
+    opacity: 0.8;
+    border: 2px dotted whitesmoke;
+    border-radius: 50%;
+}
+
+
 
 
 .button {
@@ -339,6 +358,15 @@
     justify-content: center;
     flex-wrap: wrap;   
 }
+.grid3 {
+    background-color: #EC1613;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;   
+}
+
 
 
 
@@ -456,6 +484,25 @@
     padding-bottom: 5px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
+
+.chapter2 {
+
+    background-color: #EC1613;
+    color: white;
+    opacity: 0.8;
+    opacity: 1;
+    position: sticky;
+    z-index: 1;
+    width: 100%;
+    font-weight: 200;
+    text-align: center;
+    top: 0px;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 5px;
+    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+}
+
 
 
 
