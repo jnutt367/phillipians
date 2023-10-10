@@ -551,7 +551,7 @@ for you created all things,
   
                                         <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>The Revelation Chpt VI</h2>
+                                        <h2 className={styles.chapter3}>The Revelation Chpt VI</h2>
                                         <p>
                                           The Seals
                               6 I watched as the Lamb opened the first of the seven seals. Then I heard one of the four living creatures say in a voice like thunder, “Come!” 2 I looked, and there before me was a white horse! Its rider held a bow, and he was given a crown, and he rode out as a conqueror bent on conquest.
