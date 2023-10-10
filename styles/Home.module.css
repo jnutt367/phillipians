@@ -308,7 +308,7 @@
 }
 
 .nav3 {
-    background-color: #EC1613;
+    background-color: #890705;
     color: white;
     opacity: 1;
     padding: 5px;
@@ -359,7 +359,7 @@
     flex-wrap: wrap;   
 }
 .grid3 {
-    background-color: #EC1613;
+    background-color: #890705;
     color: white;
     display: flex;
     align-items: center;
@@ -485,9 +485,9 @@
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
 
-.chapter2 {
+.chapter3 {
 
-    background-color: #EC1613;
+    background-color: #890705;
     color: white;
     opacity: 0.8;
     opacity: 1;
