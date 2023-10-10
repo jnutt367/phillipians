@@ -324,7 +324,7 @@ Final Greetings
 
 
 
-      <main className={styles.main}>
+      <main id="revelation" className={styles.main}>
       
        
        
