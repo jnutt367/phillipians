@@ -344,45 +344,43 @@ Final Greetings
         <h1 className={styles.title}>
           THE REVELATION
         </h1>
-         <div  className={styles.image}>
-       <Image 
-                                src="/the_revelation.png"
-                                alt="image of the revealtion of jesus to john"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
+         <div  className={styles.iframe1}>
+      <iframe width="100%" height="300" src="https://www.youtube.com/embed/iWAFg7snN2o?si=j23wq9hNJoiPifgV&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>              
+        
         </div>
 <p className={styles.parables}>
-        Description of the the revelation of Jesus Christ in a vision to John, on the Island of Patmos, while he was in exile for the Word                                  
+        The revelation of Jesus Christ in a vision to John, on the Island of Patmos, while he was in exile for the Word                                  
 </p>
-                      <div className={styles.nav3}>           
+                      <div className={styles.nav}>           
       <a href="https://galatians.vercel.app/#first_peter">
+              <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="left"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
          <a href="https://cash.app/$JNutt367">
+ <p>Give</p>
             <Image 
                                 src="/upward_pointing.webp"
                                 alt="home"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
         </a> 
          <a href="https://the-word-of-god.vercel.app/">
+ <p>Next</p>                                  
            <Image 
                                 src="/next.webp"
                                 alt="right"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -394,9 +392,9 @@ Final Greetings
                       <iframe width="100%" height="315" src="https://www.youtube.com/embed/5nvVVcYD-0w?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div> 
  
-      <div className={styles.grid3}>
+      <div className={styles.grid}>
           <div className={styles.card}>
-            <h2 className={styles.chapter3}>The Revelation Chpt I</h2>
+            <h2 className={styles.chapter}>The Revelation Chpt I</h2>
             <p>
               The revelation from Jesus Christ, which God gave him to show his servants what must soon take place. He made it known by sending his angel to his servant John, 2 who testifies to everything he saw—that is, the word of God and the testimony of Jesus Christ. 3 
 Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear it and take to heart what is written in it, because the time is near.
@@ -430,7 +428,7 @@ John’s Vision of Christ
               </div>
 
           <div className={styles.card}>
-           <h2 className={styles.chapter3}>The Revelation Chpt II</h2>
+           <h2 className={styles.chapter}>The Revelation Chpt II</h2>
             <p>To the Church in Ephesus
 2 “To the angel[a] of the church in Ephesus write:
 
@@ -471,7 +469,7 @@ These are the words of the Son of God, whose eyes are like blazing fire and whos
           <div
             className={styles.card}
           >
-           <h2 className={styles.chapter3}>The Revelation Chpt III</h2>
+           <h2 className={styles.chapter}>The Revelation Chpt III</h2>
             <p>
             To the Church in Sardis
 3 “To the angel[a] of the church in Sardis write:
@@ -499,7 +497,7 @@ These are the words of the Amen, the faithful and true witness, the ruler of God
           </div>
 <div className={styles.card}>
 
-<h2 className={styles.chapter3}>The Revelation Chpt IV</h2>
+<h2 className={styles.chapter}>The Revelation Chpt IV</h2>
 <p>
 The Throne in Heaven
 4 After this I looked, and there before me was a door standing open in heaven. And the voice I had first heard speaking to me like a trumpet said, “Come up here, and I will show you what must take place after this.” 2 At once I was in the Spirit, and there before me was a throne in heaven with someone sitting on it. 3 And the one who sat there had the appearance of jasper and ruby. A rainbow that shone like an emerald encircled the throne. 4 Surrounding the throne were twenty-four other thrones, and seated on them were twenty-four elders. They were dressed in white and had crowns of gold on their heads. 5 From the throne came flashes of lightning, rumblings and peals of thunder. In front of the throne, seven lamps were blazing. These are the seven spirits[a] of God. 6 Also in front of the throne there was what looked like a sea of glass, clear as crystal.
@@ -524,7 +522,7 @@ for you created all things,
 
                                       <div className={styles.card}>
 
-                                      <h2 className={styles.chapter3}>The Revelation Chpt V</h2>
+                                      <h2 className={styles.chapter}>The Revelation Chpt V</h2>
                                       <p>
 
                                       The Scroll and the Lamb
@@ -558,7 +556,7 @@ for you created all things,
   
                                         <div className={styles.card}>
 
-                                        <h2 className={styles.chapter3}>The Revelation Chpt VI</h2>
+                                        <h2 className={styles.chapter}>The Revelation Chpt VI</h2>
                                         <p>
                                           The Seals
                               6 I watched as the Lamb opened the first of the seven seals. Then I heard one of the four living creatures say in a voice like thunder, “Come!” 2 I looked, and there before me was a white horse! Its rider held a bow, and he was given a crown, and he rode out as a conqueror bent on conquest.
@@ -579,7 +577,7 @@ for you created all things,
 
                               <div className={styles.card}>
 
-                                        <h2 className={styles.chapter3}>The Revelation Chpt VI</h2>
+                                        <h2 className={styles.chapter}>The Revelation Chpt VII</h2>
                                         <p>
                                                                                   144,000 Sealed
                                           7 After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth to prevent any wind from blowing on the land or on the sea or on any tree. 2 Then I saw another angel coming up from the east, having the seal of the living God. He called out in a loud voice to the four angels who had been given power to harm the land and the sea: 3 “Do not harm the land or the sea or the trees until we put a seal on the foreheads of the servants of our God.” 4 Then I heard the number of those who were sealed: 144,000 from all the tribes of Israel.
@@ -646,7 +644,7 @@ for you created all things,
                                                                            </div>
                                     <div className={styles.card}>
 
-                                        <h2 className={styles.chapter3}>The Revelation Chpt VII </h2>
+                                        <h2 className={styles.chapter}>The Revelation Chpt VIII </h2>
                                         <p>
 
                                         The Seventh Seal and the Golden Censer
@@ -677,7 +675,7 @@ for you created all things,
 
                                 <div className={styles.card}>
 
-                                        <h2 className={styles.chapter3}>The Revelation Chpt IX</h2>
+                                        <h2 className={styles.chapter}>The Revelation Chpt IX</h2>
                                         <p>
                                           9 The fifth angel sounded his trumpet, and I saw a star that had fallen from the sky to the earth. The star was given the key to the shaft of the Abyss. 2 When he opened the Abyss, smoke rose from it like the smoke from a gigantic furnace. The sun and sky were darkened by the smoke from the Abyss. 3 And out of the smoke locusts came down on the earth and were given power like that of scorpions of the earth. 4 They were told not to harm the grass of the earth or any plant or tree, but only those people who did not have the seal of God on their foreheads. 5 They were not allowed to kill them but only to torture them for five months. And the agony they suffered was like that of the sting of a scorpion when it strikes. 6 During those days people will seek death but will not find it; they will long to die, but death will elude them.
 
@@ -695,7 +693,7 @@ for you created all things,
                                   </div>
                                   <div className={styles.card}>
 
-                                        <h2 className={styles.chapter3}>The Revelation Chpt X </h2>
+                                        <h2 className={styles.chapter}>The Revelation Chpt X </h2>
                                         <p>
                                           The Angel and the Little Scroll
                                           10 Then I saw another mighty angel coming down from heaven. He was robed in a cloud, with a rainbow above his head; his face was like the sun, and his legs were like fiery pillars. 2 He was holding a little scroll, which lay open in his hand. He planted his right foot on the sea and his left foot on the land, 3 and he gave a loud shout like the roar of a lion. When he shouted, the voices of the seven thunders spoke. 4 And when the seven thunders spoke, I was about to write; but I heard a voice from heaven say, “Seal up what the seven thunders have said and do not write it down.”
@@ -710,7 +708,7 @@ for you created all things,
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter3}>The Revelation Chpt XI </h2>
+                                        <h2 className={styles.chapter}>The Revelation Chpt XI </h2>
                                         <p>
                                                                                           The Two Witnesses
                                                 11 I was given a reed like a measuring rod and was told, “Go and measure the temple of God and the altar, with its worshipers. 2 But exclude the outer court; do not measure it, because it has been given to the Gentiles. They will trample on the holy city for 42 months. 3 And I will appoint my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.” 4 They are “the two olive trees” and the two lampstands, and “they stand before the Lord of the earth.”[a] 5 If anyone tries to harm them, fire comes from their mouths and devours their enemies. This is how anyone who wants to harm them must die. 6 They have power to shut up the heavens so that it will not rain during the time they are prophesying; and they have power to turn the waters into blood and to strike the earth with every kind of plague as often as they want.
@@ -750,7 +748,7 @@ for you created all things,
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter3}>The Revelation Chpt XII </h2>
+                                        <h2 className={styles.chapter}>The Revelation Chpt XII </h2>
                                         <p>
                                                                                               The Woman and the Dragon
                                                     12 A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head. 2 She was pregnant and cried out in pain as she was about to give birth. 3 Then another sign appeared in heaven: an enormous red dragon with seven heads and ten horns and seven crowns on its heads. 4 Its tail swept a third of the stars out of the sky and flung them to the earth. The dragon stood in front of the woman who was about to give birth, so that it might devour her child the moment he was born. 5 She gave birth to a son, a male child, who “will rule all the nations with an iron scepter.”[a] And her child was snatched up to God and to his throne. 6 The woman fled into the wilderness to a place prepared for her by God, where she might be taken care of for 1,260 days.
@@ -783,7 +781,7 @@ for you created all things,
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter3}>The Revelation Chpt XIII </h2>
+                                        <h2 className={styles.chapter}>The Revelation Chpt XIII </h2>
                                         <p>
                                                                                             The Beast out of the Sea
                                                   13 The dragon[a] stood on the shore of the sea. And I saw a beast coming out of the sea. It had ten horns and seven heads, with ten crowns on its horns, and on each head a blasphemous name. 2 The beast I saw resembled a leopard, but had feet like those of a bear and a mouth like that of a lion. The dragon gave the beast his power and his throne and great authority. 3 One of the heads of the beast seemed to have had a fatal wound, but the fatal wound had been healed. The whole world was filled with wonder and followed the beast. 4 People worshiped the dragon because he had given authority to the beast, and they also worshiped the beast and asked, “Who is like the beast? Who can wage war against it?”
@@ -808,7 +806,7 @@ for you created all things,
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter3}>The Revelation Chpt XIV </h2>
+                                        <h2 className={styles.chapter}>The Revelation Chpt XIV </h2>
                                         <p>
                                                                                               The Lamb and the 144,000
                                                     14 Then I looked, and there before me was the Lamb, standing on Mount Zion, and with him 144,000 who had his name and his Father’s name written on their foreheads. 2 And I heard a sound from heaven like the roar of rushing waters and like a loud peal of thunder. The sound I heard was like that of harpists playing their harps. 3 And they sang a new song before the throne and before the four living creatures and the elders. No one could learn the song except the 144,000 who had been redeemed from the earth. 4 These are those who did not defile themselves with women, for they remained virgins. They follow the Lamb wherever he goes. They were purchased from among mankind and offered as firstfruits to God and the Lamb. 5 No lie was found in their mouths; they are blameless.
@@ -833,7 +831,7 @@ for you created all things,
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter3}>The Revelation Chpt XV </h2>
+                                        <h2 className={styles.chapter}>The Revelation Chpt XV </h2>
                                         <p>
                                                                                     Seven Angels With Seven Plagues
                                           15 I saw in heaven another great and marvelous sign: seven angels with the seven last plagues—last, because with them God’s wrath is completed. 2 And I saw what looked like a sea of glass glowing with fire and, standing beside the sea, those who had been victorious over the beast and its image and over the number of its name. They held harps given them by God 3 and sang the song of God’s servant Moses and of the Lamb:
@@ -856,7 +854,7 @@ for you created all things,
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter3}>The Revelation Chpt XVI </h2>
+                                        <h2 className={styles.chapter}>The Revelation Chpt XVI </h2>
                                         <p>
                                                                                                 The Seven Bowls of God’s Wrath
                                                       16 Then I heard a loud voice from the temple saying to the seven angels, “Go, pour out the seven bowls of God’s wrath on the earth.”
@@ -895,7 +893,7 @@ for you created all things,
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter3}>The Revelation Chpt XVII </h2>
+                                        <h2 className={styles.chapter}>The Revelation Chpt XVII </h2>
                                         <p>
                                                       Babylon, the Prostitute on the Beast
                                                 17 One of the seven angels who had the seven bowls came and said to me, “Come, I will show you the punishment of the great prostitute, who sits by many waters. 2 With her the kings of the earth committed adultery, and the inhabitants of the earth were intoxicated with the wine of her adulteries.”
@@ -922,7 +920,7 @@ for you created all things,
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter3}>The Revelation Chpt XVIII </h2>
+                                        <h2 className={styles.chapter}>The Revelation Chpt XVIII </h2>
                                         <p>
                                           Lament Over Fallen Babylon
                                                 18 After this I saw another angel coming down from heaven. He had great authority, and the earth was illuminated by his splendor. 2 With a mighty voice he shouted:
@@ -1013,7 +1011,7 @@ for you created all things,
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter3}>The Revelation Chpt XIX </h2>
+                                        <h2 className={styles.chapter}>The Revelation Chpt XIX </h2>
                                         <p>
                                                                                           Threefold Hallelujah Over Babylon’s Fall
                                                 19 After this I heard what sounded like the roar of a great multitude in heaven shouting:
@@ -1073,7 +1071,7 @@ for you created all things,
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter3}>The Revelation Chpt XX </h2>
+                                        <h2 className={styles.chapter}>The Revelation Chpt XX </h2>
                                         <p>
                                                                                             The Thousand Years
                                                   20 And I saw an angel coming down out of heaven, having the key to the Abyss and holding in his hand a great chain. 2 He seized the dragon, that ancient serpent, who is the devil, or Satan, and bound him for a thousand years. 3 He threw him into the Abyss, and locked and sealed it over him, to keep him from deceiving the nations anymore until the thousand years were ended. After that, he must be set free for a short time.
@@ -1091,7 +1089,7 @@ for you created all things,
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter3}>The Revelation Chpt XXI </h2>
+                                        <h2 className={styles.chapter}>The Revelation Chpt XXI </h2>
                                         <p>
                                                                                       A New Heaven and a New Earth
                                             21 Then I saw “a new heaven and a new earth,”[a] for the first heaven and the first earth had passed away, and there was no longer any sea. 2 I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband. 3 And I heard a loud voice from the throne saying, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. 4 ‘He will wipe every tear from their eyes. There will be no more death’[b] or mourning or crying or pain, for the old order of things has passed away.”
@@ -1110,7 +1108,7 @@ for you created all things,
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter3}>The Revelation Chpt XXII </h2>
+                                        <h2 className={styles.chapter}>The Revelation Chpt XXII </h2>
                                         <p>
                                                                                                   Eden Restored
                                                         22 Then the angel showed me the river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb 2 down the middle of the great street of the city. On each side of the river stood the tree of life, bearing twelve crops of fruit, yielding its fruit every month. And the leaves of the tree are for the healing of the nations. 3 No longer will there be any curse. The throne of God and of the Lamb will be in the city, and his servants will serve him. 4 They will see his face, and his name will be on their foreheads. 5 There will be no more night. They will not need the light of a lamp or the light of the sun, for the Lord God will give them light. And they will reign for ever and ever.
