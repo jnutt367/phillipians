@@ -294,7 +294,19 @@ Final Greetings
                                     </p>
           </div>
 
-         
+
+    <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Thanks so much!</h2>
+            <p>
+            I have enjoyed building this bible immensely...
+           All of the gospels and the following books have been faithfully transcribed by hand by me into this Application and will be getting reformatted and re-styled as the Lord directs these hands and clears the path for His creation! God bless y'all!
+                        This has completed the New Testament portion of this Bible App...Praise God for the ability to code, publish & deploy this passion project!!
+     </p>
+          </div>
+
+
+                                                                                
           <div className={styles.card2}
           >
             <h2 className={styles.chapter2}>!Explaination of Layout!</h2>
@@ -318,7 +330,8 @@ Final Greetings
           </div>
 
 
-     
+
+              
 
         </div>
 </div>
