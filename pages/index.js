@@ -229,8 +229,8 @@ Final Greetings
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={50}
-                                width={50}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
@@ -241,8 +241,8 @@ Final Greetings
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={50}
-                                width={50}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
@@ -251,8 +251,8 @@ Final Greetings
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={50}
-                                width={50}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -380,7 +380,7 @@ Final Greetings
                               />
        </a>
 
-         <a href="https://cash.app/$JNutt367">
+         <a href="https://cash.app/$thewordofgodrisen">
  <p>Give</p>
             <Image 
                                 src="/upward_pointing.webp"
