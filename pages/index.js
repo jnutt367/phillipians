@@ -363,7 +363,7 @@ Final Greetings
           THE REVELATION
         </h1>
          <div  className={styles.iframe1}>
-     <iframe width="100%" height="315" src="https://www.youtube.com/embed/ZHEcpAxk16k?si=VJf8_ymX8f3KoLIf" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+     <iframe width="100%" height="300" src="https://www.youtube.com/embed/ZHEcpAxk16k?si=VJf8_ymX8f3KoLIf" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
 <p className={styles.parables}>
         The revelation of Jesus Christ in a vision to John, on the Island of Patmos, while he was in exile for the Word                                  
