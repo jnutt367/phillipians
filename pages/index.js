@@ -406,7 +406,7 @@ Final Greetings
                </div>
   
                 <div className={styles.iframe}>
-                  <iframe width="100%" height="300" src="https://www.youtube.com/embed/G-2e9mMf7E8?si=2O2f9W2bgud_UlKN" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                  <iframe width="100%" height="300" src="https://www.youtube.com/embed/G-2e9mMf7E8?si=2O2f9W2bgud_UlKN&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   
                 </div> 
  
