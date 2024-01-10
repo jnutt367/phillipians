@@ -55,7 +55,7 @@ export default function Home() {
                               />
        </a>
 
-         <a href="https://cash.app/$JNutt367">
+         <a href="https://cash.app/$thewordofgodrisen">
 
  <p>Give</p>
             <Image 
@@ -229,20 +229,20 @@ Final Greetings
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={25}
-                                width={25}
+                                 height={50}
+                                width={50}
                                 priority
                               />
        </a>
 
         
-      <a href="https://cash.app/$JNutt367">
+      <a href="https://cash.app/$thewordofgodrisen">
 <p>Give</p>                                  
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={25}
-                                width={25}
+                                height={50}
+                                width={50}
                                 priority
                               /> 
        </a>
@@ -251,8 +251,8 @@ Final Greetings
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={25}
-                                width={25}
+                                 height={50}
+                                width={50}
                                 priority
                               />
            
